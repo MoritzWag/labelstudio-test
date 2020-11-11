@@ -1,0 +1,27 @@
+{
+  "completions": [
+    {
+      "created_at": 1605121877,
+      "id": 5001,
+      "lead_time": 1.963,
+      "result": [
+        {
+          "from_name": "tag",
+          "id": "DcJ3C3YT62",
+          "to_name": "img",
+          "type": "choices",
+          "value": {
+            "choices": [
+              "Airbus"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "/data/turtle1_low.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
+  },
+  "id": 5,
+  "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/turtle1_low.jpg"
+}

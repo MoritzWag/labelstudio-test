@@ -1,0 +1,27 @@
+{
+  "completions": [
+    {
+      "created_at": 1605121878,
+      "id": 6001,
+      "lead_time": 1.517,
+      "result": [
+        {
+          "from_name": "tag",
+          "id": "LSEKPHBicO",
+          "to_name": "img",
+          "type": "choices",
+          "value": {
+            "choices": [
+              "Airbus"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "/data/cat2.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
+  },
+  "id": 6,
+  "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/cat2.jpg"
+}
