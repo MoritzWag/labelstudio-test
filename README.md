@@ -22,13 +22,20 @@ To set up a project, a variety of options are offered, whereby the method distin
 `label-studio init <project_name> --input_path<where the image data is stored> --input-format image-dir --label-config ../config.xml --allow-serving-local-files`
 
 4. Start labeling at local host:
-`label-studio start <project_name>
+`label-studio start <project_name>`
 
 ### Multi Image Annotation 
-
+To be discussed.
 
 ## Start Annotation 
+For annotation just follow the instruction on the website. It is very intuitive. 
+Every step you process, is directly synchronized with your local folder.
+All results can be found in the folder `completions`.
 
 
 
 ## Store Results
+To store the results, run the following command from the parent directory:
+`python store_results.py --path <default> --user <your username>`
+
+Then, a csv file is stored with the username
