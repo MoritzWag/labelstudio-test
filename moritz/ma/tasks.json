@@ -1,86 +1,44 @@
 {
   "1": {
     "id": 1,
-    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/turtle2_low.jpg",
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_1.jpg",
     "data": {
-      "image": "/data/turtle2_low.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
+      "image": "/data/combined_1.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
     }
   },
   "2": {
     "id": 2,
-    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/dog2_low.jpg",
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_0.jpg",
     "data": {
-      "image": "/data/dog2_low.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
+      "image": "/data/combined_0.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
     }
   },
   "3": {
     "id": 3,
-    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/dog2.jpg",
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_2.jpg",
     "data": {
-      "image": "/data/dog2.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
+      "image": "/data/combined_2.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
     }
   },
   "4": {
     "id": 4,
-    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/dog1.jpg",
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_3.jpg",
     "data": {
-      "image": "/data/dog1.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
+      "image": "/data/combined_3.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
     }
   },
   "5": {
     "id": 5,
-    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/cat1.jpg",
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_4.jpg",
     "data": {
-      "image": "/data/cat1.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
+      "image": "/data/combined_4.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
     }
   },
   "6": {
     "id": 6,
-    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/turtle1_low.jpg",
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_5.jpg",
     "data": {
-      "image": "/data/turtle1_low.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
-    }
-  },
-  "7": {
-    "id": 7,
-    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/cat2.jpg",
-    "data": {
-      "image": "/data/cat2.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
-    }
-  },
-  "8": {
-    "id": 8,
-    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/dog1_low.jpg",
-    "data": {
-      "image": "/data/dog1_low.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
-    }
-  },
-  "9": {
-    "id": 9,
-    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/cat1_low.jpg",
-    "data": {
-      "image": "/data/cat1_low.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
-    }
-  },
-  "10": {
-    "id": 10,
-    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/turtle1.jpg",
-    "data": {
-      "image": "/data/turtle1.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
-    }
-  },
-  "11": {
-    "id": 11,
-    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/cat2_low.jpg",
-    "data": {
-      "image": "/data/cat2_low.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
-    }
-  },
-  "12": {
-    "id": 12,
-    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/turtle2.jpg",
-    "data": {
-      "image": "/data/turtle2.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
+      "image": "/data/combined_5.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
     }
   }
 }

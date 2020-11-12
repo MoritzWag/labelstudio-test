@@ -1,18 +1,18 @@
 {
   "completions": [
     {
-      "created_at": 1605121877,
+      "created_at": 1605187306,
       "id": 5001,
-      "lead_time": 1.963,
+      "lead_time": 1.692,
       "result": [
         {
           "from_name": "tag",
-          "id": "DcJ3C3YT62",
+          "id": "mD799p44mU",
           "to_name": "img",
           "type": "choices",
           "value": {
             "choices": [
-              "Airbus"
+              "Turtle"
             ]
           }
         }
@@ -20,8 +20,8 @@
     }
   ],
   "data": {
-    "image": "/data/turtle1_low.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fdata2"
+    "image": "/data/combined_5.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
   },
   "id": 5,
-  "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/data2/turtle1_low.jpg"
+  "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_5.jpg"
 }

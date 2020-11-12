@@ -11,6 +11,8 @@ def parse_args():
                         help='path were user folders are stored')
     parser.add_argument('--user', type=str, default='moritz',
                         help='user for whom the results shall be retrieved')
+    parser.add_argument('--project_name', type=str, default='ma',
+                        help='the project name, each user can specify (should be identical in best case)')
     args = parser.parse_args()
     return args
 
@@ -23,7 +25,9 @@ def retrieve_annotations(args):
     """
     path = args.path
     user = args.user
-    absolute_path = f"{path}/{user}/ma/completions"
+    project_name = args.project_name
+
+    absolute_path = f"{path}/{user}/{project_name}/completions"
 
     df = pd.DataFrame(columns=['file', 'label'])
 

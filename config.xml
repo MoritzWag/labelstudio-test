@@ -1,7 +1,8 @@
 <View>
   <Image name="img" value="$image"></Image>
   <Choices name="tag" toName="img" choice="single-radio">
-    <Choice value="Airbus"></Choice>
-    <Choice value="Boeing" background="blue"></Choice>
+    <Choice value="Dog"></Choice>
+    <Choice value="Cat" background="blue"></Choice>
+    <Choice value="Turtle" background="red"></Choice>
   </Choices>
 </View>
