@@ -1,0 +1,352 @@
+{
+  "1": {
+    "id": 1,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_34.jpg",
+    "data": {
+      "image": "/data/combined_34.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "2": {
+    "id": 2,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_20.jpg",
+    "data": {
+      "image": "/data/combined_20.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "3": {
+    "id": 3,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_8.jpg",
+    "data": {
+      "image": "/data/combined_8.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "4": {
+    "id": 4,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_9.jpg",
+    "data": {
+      "image": "/data/combined_9.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "5": {
+    "id": 5,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_21.jpg",
+    "data": {
+      "image": "/data/combined_21.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "6": {
+    "id": 6,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_35.jpg",
+    "data": {
+      "image": "/data/combined_35.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "7": {
+    "id": 7,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_23.jpg",
+    "data": {
+      "image": "/data/combined_23.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "8": {
+    "id": 8,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_37.jpg",
+    "data": {
+      "image": "/data/combined_37.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "9": {
+    "id": 9,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_36.jpg",
+    "data": {
+      "image": "/data/combined_36.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "10": {
+    "id": 10,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_22.jpg",
+    "data": {
+      "image": "/data/combined_22.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "11": {
+    "id": 11,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_26.jpg",
+    "data": {
+      "image": "/data/combined_26.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "12": {
+    "id": 12,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_32.jpg",
+    "data": {
+      "image": "/data/combined_32.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "13": {
+    "id": 13,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_33.jpg",
+    "data": {
+      "image": "/data/combined_33.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "14": {
+    "id": 14,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_27.jpg",
+    "data": {
+      "image": "/data/combined_27.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "15": {
+    "id": 15,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_31.jpg",
+    "data": {
+      "image": "/data/combined_31.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "16": {
+    "id": 16,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_25.jpg",
+    "data": {
+      "image": "/data/combined_25.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "17": {
+    "id": 17,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_19.jpg",
+    "data": {
+      "image": "/data/combined_19.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "18": {
+    "id": 18,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_18.jpg",
+    "data": {
+      "image": "/data/combined_18.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "19": {
+    "id": 19,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_24.jpg",
+    "data": {
+      "image": "/data/combined_24.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "20": {
+    "id": 20,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_30.jpg",
+    "data": {
+      "image": "/data/combined_30.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "21": {
+    "id": 21,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_43.jpg",
+    "data": {
+      "image": "/data/combined_43.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "22": {
+    "id": 22,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_42.jpg",
+    "data": {
+      "image": "/data/combined_42.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "23": {
+    "id": 23,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_40.jpg",
+    "data": {
+      "image": "/data/combined_40.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "24": {
+    "id": 24,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_41.jpg",
+    "data": {
+      "image": "/data/combined_41.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "25": {
+    "id": 25,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_45.jpg",
+    "data": {
+      "image": "/data/combined_45.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "26": {
+    "id": 26,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_44.jpg",
+    "data": {
+      "image": "/data/combined_44.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "27": {
+    "id": 27,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_46.jpg",
+    "data": {
+      "image": "/data/combined_46.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "28": {
+    "id": 28,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_47.jpg",
+    "data": {
+      "image": "/data/combined_47.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "29": {
+    "id": 29,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_49.jpg",
+    "data": {
+      "image": "/data/combined_49.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "30": {
+    "id": 30,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_48.jpg",
+    "data": {
+      "image": "/data/combined_48.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "31": {
+    "id": 31,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_29.jpg",
+    "data": {
+      "image": "/data/combined_29.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "32": {
+    "id": 32,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_15.jpg",
+    "data": {
+      "image": "/data/combined_15.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "33": {
+    "id": 33,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_1.jpg",
+    "data": {
+      "image": "/data/combined_1.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "34": {
+    "id": 34,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_0.jpg",
+    "data": {
+      "image": "/data/combined_0.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "35": {
+    "id": 35,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_14.jpg",
+    "data": {
+      "image": "/data/combined_14.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "36": {
+    "id": 36,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_28.jpg",
+    "data": {
+      "image": "/data/combined_28.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "37": {
+    "id": 37,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_16.jpg",
+    "data": {
+      "image": "/data/combined_16.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "38": {
+    "id": 38,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_2.jpg",
+    "data": {
+      "image": "/data/combined_2.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "39": {
+    "id": 39,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_3.jpg",
+    "data": {
+      "image": "/data/combined_3.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "40": {
+    "id": 40,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_17.jpg",
+    "data": {
+      "image": "/data/combined_17.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "41": {
+    "id": 41,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_13.jpg",
+    "data": {
+      "image": "/data/combined_13.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "42": {
+    "id": 42,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_7.jpg",
+    "data": {
+      "image": "/data/combined_7.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "43": {
+    "id": 43,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_6.jpg",
+    "data": {
+      "image": "/data/combined_6.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "44": {
+    "id": 44,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_12.jpg",
+    "data": {
+      "image": "/data/combined_12.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "45": {
+    "id": 45,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_10.jpg",
+    "data": {
+      "image": "/data/combined_10.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "46": {
+    "id": 46,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_38.jpg",
+    "data": {
+      "image": "/data/combined_38.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "47": {
+    "id": 47,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_4.jpg",
+    "data": {
+      "image": "/data/combined_4.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "48": {
+    "id": 48,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_5.jpg",
+    "data": {
+      "image": "/data/combined_5.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "49": {
+    "id": 49,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_39.jpg",
+    "data": {
+      "image": "/data/combined_39.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  },
+  "50": {
+    "id": 50,
+    "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_11.jpg",
+    "data": {
+      "image": "/data/combined_11.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "completions": [
+    {
+      "created_at": 1605515585,
+      "id": 6001,
+      "lead_time": 1.5,
+      "result": [
+        {
+          "from_name": "tag",
+          "id": "5bf17kD5bE",
+          "to_name": "img",
+          "type": "choices",
+          "value": {
+            "choices": [
+              "Clean"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "data": {
+    "image": "/data/combined_23.jpg?d=%2FUsers%2Fwagnermz%2FDesktop%2Flabelstudio%2Flabelstudio-test%2Fdata%2Fcombined"
+  },
+  "id": 6,
+  "task_path": "/Users/wagnermz/Desktop/labelstudio/labelstudio-test/data/combined/combined_23.jpg"
+}
